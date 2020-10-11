@@ -49,6 +49,7 @@ The analysis of the election show that:
 In addition, the image below shows the summary from the txt file generated. 
 
 ![image_name](Resources/analysis/election_results.png)
+
 *Fig. 1 - Election Results*
   
   
