@@ -43,7 +43,7 @@ In addition, the image below shows the summary of the Election Results.
  
  ## Election-Audit Summary 
  
- If the Colorado Board of Elections has another dataset with the same structure; Ballot ID, County & Candidate, this script can be used for any election just by updating the inbound file and outfile file, as ilustratated in the examples below. 
+ If the Colorado Board of Elections has another dataset with the same structure; Ballot ID, County & Candidate, this script can be used for any election by updating the inbound file and outfile file, as ilustratated in the examples below. 
  
 \# Add a variable to load a file from a path.
 
