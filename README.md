@@ -29,5 +29,26 @@ The analysis of the election show that:
   - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 votes. 
   
  ## Challenge Overview 
+ This election audit analysis has the objective of:
+ 
+ 1. Calculate the total number of votes per county.
+ 2. Calculate the percentage of votes per county. 
+ 3. Determine the county with the largest number of voters. 
+ 4. Save elections results to a Text File
  
  ## Challenge Summary 
+ 
+ The PyPoll Challenge analysis show that: 
+ 
+ - The county votes in the elections were:
+  - Jefferson County with 10.5% of voters and 38,855 total votes.
+  - Denver County with 82.8% of voters and 306,055 total votes.
+  - Arapahoe County with 6.7% of voters and 24,801 total votes.
+ - Denver was the largest county turnout.
+ 
+In addition, the image below shows the summary from the txt file generated. 
+
+![image_name](Resources/analysis/election_results.png)
+*Fig. 1 - Election Results*
+  
+  
