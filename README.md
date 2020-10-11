@@ -47,6 +47,7 @@ In addition, the image below shows the summary of the Election Results.
  
  '# Add a variable to load a file from a path.
 file_to_load = os.path.join("Insert the path to the new dataset/new_dataset_name.csv")
+
 '# Add a variable to save the file to a path.
 file_to_save = os.path.join("/Insert the path to the new save file", "new_results.txt")
  
